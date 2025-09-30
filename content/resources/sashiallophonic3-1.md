@@ -4,6 +4,8 @@ description: Supporting file for Study Materials.
 file: /courses/24-964-topics-in-phonology-fall-2004/e74a5c89203b69eb52242cdb54f1569b_SaShiAllophonic3.txt
 file_size: 92
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

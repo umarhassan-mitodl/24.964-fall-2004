@@ -4,6 +4,8 @@ description: Supporting file.
 file: /courses/24-964-topics-in-phonology-fall-2004/f67dd8714d82749b9e7bbdc877bc6316_Japanese_ToConvert.txt
 file_size: 78
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

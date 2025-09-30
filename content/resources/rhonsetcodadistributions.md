@@ -4,6 +4,8 @@ description: Supporting file for Study Materials.
 file: /courses/24-964-topics-in-phonology-fall-2004/d1bb3f1c44f6f42f6a9d6e5806ff7517_RHOnsetCodaDistributions.txt
 file_size: 3913
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

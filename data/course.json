@@ -28,6 +28,7 @@
     "website": "24-964-topics-in-phonology-fall-2004"
   },
   "course_title": "Topics in Phonology",
+  "hide_download": true,
   "course_description": "This course introduces students to the theory and practice of modeling phonology, with an empirical focus on modeling the discovery of static phonotactics, the discovery of alternations, learning in the midst of variation and exceptions, and the discovery of gradient patterns. This course is also intended to provide hands-on experience with various aspects of using and developing models, including preparing training data, running simulations, and interpreting their results.\n",
   "department_numbers": [
     "24"
@@ -38,6 +39,7 @@
     "content": "606c0dcf-be70-5427-e2ed-d6e0962dbf2a",
     "website": "24-964-topics-in-phonology-fall-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"

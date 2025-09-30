@@ -4,6 +4,8 @@ description: Code file.
 file: /courses/24-964-topics-in-phonology-fall-2004/e3ff18b4b628a2ec5fec9886b88078d9_hepburn5.pl
 file_size: 1537
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

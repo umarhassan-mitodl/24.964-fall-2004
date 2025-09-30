@@ -4,6 +4,8 @@ description: Supporting file.
 file: /courses/24-964-topics-in-phonology-fall-2004/434e95a2157ae98a0c3075f52218509c_CelexBiphoneProbabilities.txt
 file_size: 169041
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
